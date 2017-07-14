@@ -4,3 +4,7 @@
 ## python
 《PYTHON自然语言处理.pdf》
 简介：中文翻译+NLTK+Natural+Language+Processing+with+Python>>>>[下载](http://pan.baidu.com/s/1i5pBeOt)
+
+《OpenCV官方教程中文版（For Python）.pdf》
+简介：opencv(cv2)的python使用中文文档>>>>[下载](http://pan.baidu.com/s/1jIrAYO2)
+
