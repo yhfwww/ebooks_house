@@ -22,5 +22,7 @@
 《让excel飞.pdf》
 简介：有趣的excel教程，提高办公效率>>>>[下载](http://pan.baidu.com/s/1pLuOWdH)
 
-
+## GIT 
+《learn-github-from-zero.pdf》
+简介：非常白话非常易懂非常接地气的Github入门教程>>>>[下载](https://pan.baidu.com/s/1i4TYVtV)
 
