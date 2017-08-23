@@ -26,3 +26,6 @@
 《learn-github-from-zero.pdf》
 简介：非常白话非常易懂非常接地气的Github入门教程>>>>[下载](https://pan.baidu.com/s/1i4TYVtV)
 
+## 数据科学
+《数据科学实战.pdf》
+简介：投胎于哥伦比亚“数据科学导论”课程讲义，是一本很好的讲述数据挖掘机器学习应用思维方式和实战案例的教程>>>>[下载](http://pan.baidu.com/s/1hrVwTRe)
