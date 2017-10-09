@@ -33,3 +33,8 @@
 ## 深度学习
 《深度学习(中文版).pdf》
 简介：很全面介绍深度学习理论知识的书，可以作为学习资料或是工具书使用。>>>>[下载](http://pan.baidu.com/s/1kVmUtjp)
+
+《Tensorflow 实战Google深度学习框架.pdf》
+简介：介绍深度学习理论知识和实际应用的书。挺好的学习资料>>>>[下载](http://pan.baidu.com/s/1jItcckA)
+
+
