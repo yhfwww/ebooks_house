@@ -40,4 +40,5 @@
 《Tensorflow 实战Google深度学习框架.pdf》
 简介：介绍深度学习理论知识和实际应用的书。挺好的学习资料>>>>[下载](http://pan.baidu.com/s/1jItcckA)
 
-
+《解析卷积神经网络----深度学习实践手册.pdf》
+简介：魏秀参编写的卷积神经网络手册，方便开发人员开发中查阅使用。>>>>[下载](https://pan.baidu.com/s/1pMhNVxL)
