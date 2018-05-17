@@ -50,3 +50,9 @@
 《阿里巴巴JAVA编程规范.pdf》
 简介：如题，阿里巴巴的java编程规范。>>>>[下载](https://pan.baidu.com/s/1o9Gxa7C)
 
+## 区块链
+《区块链技术指南.pdf》
+简介：区块链入门介绍。>>>>[下载](https://pan.baidu.com/s/1zkdmvNMf9dfwAgwxpv1jJw)
+
+《华为区块链白皮书.pdf》
+简介：华为区块链白皮书，2018年4月。>>>>[下载](https://pan.baidu.com/s/17nmSau4dYkyRuiuSk_lN1w)
