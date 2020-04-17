@@ -56,3 +56,6 @@
 
 《华为区块链白皮书.pdf》
 简介：华为区块链白皮书，2018年4月。>>>>[下载](https://pan.baidu.com/s/17nmSau4dYkyRuiuSk_lN1w)
+
+## 有用的笔记
+《xgboost.dll编译和使用》
