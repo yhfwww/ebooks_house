@@ -1,3 +1,7 @@
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{username}" width="1000" height="120"/>
+</a>
+
 # ebooks_house
 陆续更新维护长期以来使用的电子书资料，并适当附上介绍。
 
